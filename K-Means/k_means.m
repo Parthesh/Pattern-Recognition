@@ -2,7 +2,7 @@
 % Indian Institute of Space Science and Technology 
 % Mtech in Geoinformatics
 % Subject: Pattern Recognition
-%(K-Means Clustering)
+% (K-Means Clustering)
 
 
 %%
@@ -120,3 +120,5 @@ scatter3(C(:,1),C(:,2),C(:,3),'kx')
 scatter3(C(:,1),C(:,2),C(:,3),'ko')
 title('K-MEANS CLUSTERING')
 legend('Cluster 1','Cluster 2','Cluster 3','Centroids')
+
+
